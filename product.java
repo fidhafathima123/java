@@ -30,7 +30,8 @@ public class product
 	    
 	   }
 	  public static void main(String[] args){
-	       System.out.println("Fidha Fathima Rollno:27 Q2-Read 2 matrices from the console and perform matrix addition.date: 14-feb-24 ");
+	       System.out.println("Fidha Fathima Rollno:27 Q1- Define a class ‘product’ with data members pcode, pname and price. Create 3 objects of 
+the class and find the product having the lowest price.date: 14-feb-24 ");
 	        product obj1 = new product();
 	        product obj2 = new product();
 	        product obj3 = new product();
