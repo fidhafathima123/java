@@ -23,7 +23,7 @@ class ComplexMain
 public static void main(String[] args)
 {
 Scanner in=new Scanner(System.in);
-System.out.println("Fidha Fathima Rollno:27 q3)Add complex numbers  14-feb-24");
+System.out.println("Fidha Fathima Rollno:27   date:14-feb-24");
 System.out.println("enter real part of first complex number");
 int r1=in.nextInt();
 System.out.println("enter image part of first complex number");
