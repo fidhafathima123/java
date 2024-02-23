@@ -5,7 +5,7 @@ class SymmetricMain
 public static void main(String[] args)
 {
 Scanner in=new Scanner(System.in);
-System.out.println("Fidha Fathima Rollno:27  Q4)check whether matrix  is symmetric or not. date: 14-feb-24 ");
+System.out.println("Fidha Fathima Rollno:27  date: 14-feb-24 ");
 System.out.println("enter the order of matrix");
 int m=in.nextInt();
 int n=in.nextInt();
