@@ -45,7 +45,7 @@ return manufacturer;
 }
 }
 public static void main(String[] args) {
-System.out.println("Fidha Fathima  Rollno:27 program 1)Define a class ‘product’ with data members pcode, pname and price. date:13-feb-24");
+System.out.println("Fidha Fathima  Rollno:27 date:13-feb-24");
 Processor processor = new Processor(4, "Intel");
 RAM ram = new RAM(8, "Kingston");
 CPU cpu = new CPU(500.0, processor, ram);
